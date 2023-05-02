@@ -1,0 +1,39 @@
+.form{
+    display: list-item;
+    background-color: rgb(178, 227, 227);
+    justify-content: center;
+    margin: auto;
+    height: 45px;
+    width: 180px;
+    border-radius: 5px;
+    margin-top: 7%;
+}
+
+.form1{
+    background: rgb(97, 180, 191);
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.button{
+    background: blue;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    height: 45px;
+    width: 185px;
+    color: white;
+    border-radius: 5px;
+}
+
+.button2{
+        margin-top: 5%;
+        background: rgb(97, 180, 191);
+        margin-bottom: 5%;
+        height: 25px;
+        width: 185px;
+        color: rgb(63, 70, 173);
+        border-color: rgb(97, 180, 191);
+        border-radius: 5px;
+        border-bottom: 5px;
+        border-right: 5px;
+    }
